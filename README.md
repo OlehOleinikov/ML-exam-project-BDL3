@@ -100,6 +100,8 @@
 
 ## 3.1. Використання геоданих розподілу клієнтів (spatial analysis)
 
+[![Generic badge](https://img.shields.io/badge/GO_TO_JUPYTER_NoteBook_FILE-OPEN-blue?style=for-the-badge&logo=jupyter)]([https://github.com/OlehOleinikov/ML-exam-project-BDL3/blob/main/bdl_exam_project_.ipynb](https://github.com/OlehOleinikov/ML-exam-project-BDL3/blob/main/spatial_feature_engineering.ipynb)) 
+
 ![](images/03_spatial_ukrmap.png)
 
 З наданих до опрацювання даних наявні відомості про локації 97% клієнтів — 204406. 
